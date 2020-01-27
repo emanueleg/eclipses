@@ -4,13 +4,13 @@
 
 21 August 2017
 
-## Authors ##
+## Observers ##
 
 * Donald G. Bruns
 
 ## Observation site ##
 
-Allen H Stewart Lions Camp, Casper Mountain, Wyoming (WY), US (2390 m above sea level)
+Allen H. Stewart Lions Camp, Casper Mountain, Wyoming (WY), US (2390 m above sea level)
 
 Coordinates: 42°44'10.9"N+106°19'05.5"W
 

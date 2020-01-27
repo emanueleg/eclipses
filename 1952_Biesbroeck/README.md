@@ -4,7 +4,7 @@
 
 25 February 1952
 
-## Authors ##
+## Observers ##
 
 * George Van Biesbroeck
 

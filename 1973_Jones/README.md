@@ -4,7 +4,7 @@
 
 30 June 1973
 
-## Authors ##
+## Observers ##
 
 * Texas Mauritanian Eclipse Team (observation)
 * Burton F. Jones (analysis)
