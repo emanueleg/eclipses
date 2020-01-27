@@ -4,21 +4,21 @@
 
 21 August 2017
 
-## Observers ##
+## Authors ##
 
-Donald G. Bruns
+* Donald G. Bruns
 
 ## Observation site ##
 
 Allen H Stewart Lions Camp, Casper Mountain, Wyoming (WY), US (2390 m above sea level)
 
-GPS Coordinates: 42°44'10.9"N+106°19'05.5"W
+Coordinates: 42°44'10.9"N+106°19'05.5"W
 
 ## Measurements
 
-Tables 5 and 6 in [1] contains all the information: Stars are identified using the Thyco catalog, distances to the Sun are expressed in units of solar radii, deflections are expressed in arcsec.
+Tables 5 and 6 in [1] contain all the values: stars are identified using the Tycho catalog, distances to the Sun are expressed in units of solar radii, deflections are expressed in arcsec.
 
-Two sets of deflection values are presented, obtained using the two analysis software programs "Astrometrica" and "MaxIm DL".
+Two sets of deflection values are presented - they come from the two analysis software programs "Astrometrica" and "MaxIm DL".
 
 Our aggregated dataset contains the mean of the Astrometrica and the MaxIm DL results for each star.
 
