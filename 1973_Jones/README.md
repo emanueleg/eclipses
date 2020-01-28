@@ -11,13 +11,13 @@
 
 ## Observation site ##
 
-Chinguetti Oasis, Islamic Republic of Mauritania (350 m above sea level) [1]
+Chinguetti Oasis, Islamic Republic of Mauritania (350 m above sea level)
 
 Coordinates: 20°27 N, 12°22' W
 
 ## Measurements
 
-Tables V in [2] contains all the values: stars are identified using their SAO number, distances from the Sun are expressed in solar radii, deflections are expressed in tens of arcsec, weights (associated to each measurement) are expressed as a numeric value of the ratio by 100.
+The details of the expedition are described in [1]. Tables V in [2] contains all the measured values: stars are identified using their SAO number, distances from the Sun are expressed in solar radii, deflections are expressed in tens of arcsec, weights (associated to each measurement) are expressed as a numeric value of the ratio by 100.
 
 In our aggregated dataset, the deflection presented in [2] has been divided by 10 to obtain the value in arcseconds. Moreover, the weight has not been included.
 
