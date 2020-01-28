@@ -23,6 +23,5 @@ Two sets of deflection values are presented - they come from the two analysis so
 Our aggregated dataset contains the mean of the Astrometrica and the MaxIm DL results for each star.
 
 ## References ##
-[1] D. G. Bruns, Gravitational starlight deflection measurements during the 21 august 2017 total solar
-eclipse, Classical and Quantum Gravity 35 (2018) 075009
+[1] D. G. Bruns, Gravitational starlight deflection measurements during the 21 august 2017 total solar eclipse, Classical and Quantum Gravity 35 (2018) 075009
 https://doi.org/10.1088/1361-6382/aaaf2a

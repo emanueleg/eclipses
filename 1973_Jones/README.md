@@ -22,10 +22,8 @@ Tables V in [2] contains all the values: stars are identified using their SAO nu
 In our aggregated dataset, the deflection presented in [2] has been divided by 10 to obtain the value in arcseconds. Moreover, the weight has not been included.
 
 ## References ##
-[1] Texas Mauritanian Eclipse Team, Gravitational deflection of-light: solar eclipse of 30 june 1973 i.
-description of procedures and final results, The Astronomical Journal 81 (1976), 452-454.
+[1] Texas Mauritanian Eclipse Team, Gravitational deflection of-light: solar eclipse of 30 june 1973 i. description of procedures and final results, The Astronomical Journal 81 (1976), 452-454.
 https://doi.org/10.1086/111906
 
-[2] B. F. Jones, Gravitational deflection of light : solar eclipse of 30 june 1973.2 plate reductions., The
-Astronomical Journal 81 (1976), 455-463.
+[2] B. F. Jones, Gravitational deflection of light : solar eclipse of 30 june 1973.2 plate reductions., The Astronomical Journal 81 (1976), 455-463.
 https://doi.org/10.1086/111907
