@@ -2,7 +2,7 @@
 
 ## Eclipse Date ##
 
-September 21, 1922
+21 September 1922
 
 ## Observers ##
 
