@@ -12,7 +12,7 @@
 
 Bocajuva, Minas Geraes, Brazil (610 m above sea level)
 
-Coordinates: 17°12'48.9" S, 43°49' W
+Coordinates: 17°12'48.9" S, 43°41'18.2 W
 
 ## Measurements
 
