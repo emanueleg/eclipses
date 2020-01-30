@@ -6,4 +6,6 @@ A careful bibliographic research led us to collect different sets of measurement
 
 Together with the whole dataset, we provide a blueprint for a possible group activity for students, useful to introduce the theory in physics classes with a playful approach.
 
-More details on the dataset and the suggested activity can be found in our article.
+The dataset is provided in CSV format, so that is can be easily imported by most of spreadsheet programs, data analysis tools, and programming languages. The file can be found within the root of this repository as a file named `eclipses_*YYYYmmddHHMMSS*.csv`, where `*YYYYmmddHHMMSS*` is the time stamp of the last edit to the database.
+
+More details on the structure of the dataset, the historical expeditions considered in out analisys, and the suggested educational activity can be found in our article.
