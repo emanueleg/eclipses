@@ -26,6 +26,5 @@ We used Figure 5 to measure distance from the Sun in solar radii: we transformed
 ## References ##
 [1] T. Matukuma, On the Einstein Effect derived from the Observations of the Total Solar Eclipse of June
 19th in 1936., Japanese Journal of Astronomy and Geophysics 18 (1941) 51-72
-https://doi.org/....
 
 [2] Barney, Ida. Revised Catalogue of the Positions and Proper Motions of 8703 Stars: Contained in the Astronomische Gesellschaft Zone between Declinations +20° and +25°, on the System of the FK3, and reduced without applying Proper Motions to the Equinox 1950.0., Transactions of the Astronomical Observatory of Yale University, 25 (1954) 1-175
