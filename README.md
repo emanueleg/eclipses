@@ -13,3 +13,19 @@ More details on the structure of the dataset, the historical expeditions conside
 _Emanuele Goldoni and Ledo Stefanini_
 
 [1] Emanuele Goldoni and Ledo Stefanini 2020 Phys. Educ. 55 045009. https://doi.org/10.1088/1361-6552/ab8778
+
+```
+@article{Goldoni_2020,
+	doi = {10.1088/1361-6552/ab8778},
+	url = {https://doi.org/10.1088%2F1361-6552%2Fab8778},
+	year = 2020,
+	month = {may},
+	publisher = {{IOP} Publishing},
+	volume = {55},
+	number = {4},
+	pages = {045009},
+	author = {Emanuele Goldoni and Ledo Stefanini},
+	title = {A century of light-bending measurements: bringing solar eclipses into the classroom},
+	journal = {Physics Education}
+}
+```
